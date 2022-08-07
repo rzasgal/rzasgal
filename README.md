@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: <strong>Domain Driven Design</strong>
 - 👯 I’m looking to collaborate on: ...
 - 🤔 I’m looking for help with: <strong>Front-end Stack</strong>
-- 💬 Ask me about: <strong>JVM, Backend Stack, Linux, Software Design Patterns, Software Architectural Patterns, Full-Text Search, NoSql, RDBMS, Kafka</strong>
+- 💬 Ask me about: <strong>Backend Stack, Linux, Software Design Patterns, Software Architectural Patterns, JVM, Full-Text Search, NoSql, RDBMS, Kafka</strong>
 - 📫 How to reach me: https://www.linkedin.com/in/umutsalihbayrak/
 - 😄 Pronouns: He/Him
 -->
