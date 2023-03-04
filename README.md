@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about: <strong>Backend Stack, Linux, Software Design Patterns, Software Architectural Patterns, JVM, Full-Text Search, NoSql, RDBMS, Kafka</strong>
 - 📫 How to reach me: https://www.linkedin.com/in/umutsalihbayrak/
 - 😄 Pronouns: He/Him
--->
