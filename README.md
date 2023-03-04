@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Umut Salih Bayrak!
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FRzasgal)
 
-Software developer specialized on JVM stack and developing event-driven microservice architectures.
+Software developer specialized on JVM stack and developing event-driven microservice architectures using Clean-Architecture and Domain Driven Design.
 
 ---
 🧰 Toolbox
@@ -12,7 +12,7 @@ Software developer specialized on JVM stack and developing event-driven microser
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: https://github.com/rzasgal/dictionary
-- 🌱 I’m currently learning: <strong>Domain Driven Design</strong>
+- 🌱 I’m currently learning: <strong>React</strong>
 - 👯 I’m looking to collaborate on: ...
 - 🤔 I’m looking for help with: <strong>Front-end Stack</strong>
 - 💬 Ask me about: <strong>Backend Stack, Linux, Software Design Patterns, Software Architectural Patterns, JVM, Full-Text Search, NoSql, RDBMS, Kafka</strong>
