@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Umut Salih Bayrak!
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FRzasgal)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=[https%3A%2F%2Ftwitter.com%2FRzasgal](https://twitter.com/Rzasgal))
 
 Software developer specialized on JVM stack and developing event-driven microservice architectures using Clean-Architecture and Domain Driven Design.
 
